@@ -1,1 +1,1 @@
-print("And it was allllll yelllllowww")
+print("Do you know the enemy???")
